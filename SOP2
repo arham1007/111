@@ -1,1 +1,38 @@
-
+ 
+<html>  
+<head>  
+<title> Tourist Place </title>  
+<style>  
+section{background-color:yellow;width:50%;height:50%;  
+float:left;color:black;font-size:30px;outline-style:solid;}  
+aside{background-color:pink;width:50%;height:50%;  
+float:right;color:black;font-size:30px;outline-style:solid;}  
+</style>  
+</head>  
+<body>  
+<header style="background
+color:lightblue;color:deeppink;textalign:center; 
+height:30%;width:100%;font-size:50px;outlinestyle:solid">Tourist 
+places  
+</header>  
+<header>  
+<section>  
+<b> City </b>  
+<ol>  
+<li> Pune </li>  
+<li> Delhi </li>  
+<li> Banglore </li>  
+<li> Hyderabad </li>  
+</ol>  
+</section>  
+<aside>  
+<p> Tourist Places in Mumbai </p>  
+<ul>  
+<li> Gateway of India </li>  
+<li> Museum </li>  
+<li> Marine Drive </li> 
+</ul>  
+</aside>  
+</header>  
+</body>  
+</html> 
