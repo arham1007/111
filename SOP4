@@ -1,0 +1,24 @@
+ 
+<html>  
+<head>  
+<title>Video Practical</title>  
+</head>  
+<body>  
+ <h1> Video Practical with Water Fall</h1> 
+<video src="waterfall.mp4" type="video/mp4" height="400" 
+width="400"  
+controls autoplay="autoplay">  
+</video>  
+</body>  
+</html><html>  
+<head>  
+<title>Video Practical</title>  
+</head>  
+<body> 
+<video height="150" width="150" controls autoplay="autoplay"> 
+<source src="waterfalls.ogg" type="video/ogg" > 
+<source src="waterfalls.mp4" type="video/mp4”> Your browser does 
+not support video tag 
+</video> 
+</body> 
+</html>
