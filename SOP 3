@@ -1,0 +1,24 @@
+<html> 
+<head> 
+<title> Audio </title> 
+</head> 
+<body> 
+<p> Audio sample </p> 
+<audio controls loop> 
+<source src="A.mp3" type="audio/mp3"> 
+</audio> 
+</body> 
+</html> 
+<!DOCTYPE html>  
+<html>  
+<body>  
+<h1>The audio File Example </h1>  
+<audio controls autoplay>  
+<source src="Side - A.mp3" type="audio/mp3">  
+<source src="Side - A.ogg" type="audio/ogg">  
+<source src="Side - A.wav" type="audio/wav"> your browser does 
+not  
+support the audio element.  
+</audio>  
+</body>  
+</html>
