@@ -1,0 +1,16 @@
+<html>  
+<head><title>Image Mapping</title></head> 
+<body>  
+ <h1> Image Mapping Practical </h1> 
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap"> 
+ 
+<map name="workmap"> 
+  <area shape="rect" coords="34,44,270,350" alt="Computer" 
+href="https://en.wikipedia.org/wiki/Computer"> 
+  <area shape="rect" coords="290,172,333,250" alt="Phone" 
+href="https://en.wikipedia.org/wiki/IPhone"> 
+  <area shape="circle" coords="337,300,44" alt="Coffee" 
+href="https://en.wikipedia.org/wiki/Coffee"> 
+</map> 
+</body>  
+</html> 
